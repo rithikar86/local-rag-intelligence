@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local RAG: Private PDF Assistant 🤖
 
 A Retrieval-Augmented Generation (RAG) system that allows you to chat with any PDF locally. 
@@ -19,3 +20,7 @@ No data leaves your machine. No API keys required.
    ```bash
    ollama pull llama3.2
    ollama pull nomic-embed-text
+=======
+# local-rag-intelligence
+A foundational Local RAG (Retrieval-Augmented Generation) portal for secure, private document intelligence. Built with Llama 3.2, FAISS, and LangChain to ensure 100% data sovereignty.
+>>>>>>> b573707d7fead31ba0bd9fd75cef8a087113931b
