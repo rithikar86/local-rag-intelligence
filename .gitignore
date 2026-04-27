@@ -1,0 +1,13 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data & Database
+data/
+faiss_index/
+
+# IDE settings
+.idea/
+.vscode/
